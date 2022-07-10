@@ -1,4 +1,4 @@
-# File: BickieLineBug.py
+# File: 8-BickieLineBug.py
 # ------------------------------
 # Uses a while loop to place a line of bickies.
 # This program works for a world of any size.

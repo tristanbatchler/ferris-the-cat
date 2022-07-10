@@ -1,4 +1,4 @@
-# File: MoveToWall.py
+# File: 7-MoveToWall.py
 # ------------------------------
 # Uses a "while" loop to move Ferris until it hits
 # a wall. Works on any sized world.

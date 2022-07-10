@@ -1,4 +1,4 @@
-# File: ThrowupManyBickies.py
+# File: 4-ThrowupManyBickies.py
 # -----------------------------
 # Places 42 bickies using a for loop
 from game import *

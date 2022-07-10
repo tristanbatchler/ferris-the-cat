@@ -1,4 +1,4 @@
-# File: BickieEatingFerris.py
+# File: B-BickieEatingFerris.py
 # --------------------------------
 # The BickieCollectingFerris program collects all the bickies
 # in a series of vertical towers and deposits them at the

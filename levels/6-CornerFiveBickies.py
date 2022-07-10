@@ -1,4 +1,4 @@
-# File: CornerFiveBickies.py
+# File: 6-CornerFiveBickies.py
 # -----------------------------
 # Places five bickies in each corner
 from game import *

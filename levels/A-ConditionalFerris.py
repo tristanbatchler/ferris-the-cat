@@ -1,3 +1,9 @@
+# File: A-ConditionalFerris.py
+# --------------------------------
+# The ConditionalFerris program causes
+# Ferris to run down a line, and throwup 
+# in places where there is no bickie, and
+# eats a bickie if there is one present.
 from game import *
 
 # eats a bickie if one is present 
