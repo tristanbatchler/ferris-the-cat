@@ -8,7 +8,7 @@ import traceback
 def prompt_file():
     top = tkinter.Tk()
     top.withdraw()
-    file_name = tkinter.filedialog.askopenfilename(parent=top, initialdir="levels")
+    file_name = tkinter.filedialog.askopenfilename(parent=top, initialdir="levels", filetypes=[("Python scripts", ".py")])
     top.wm_deiconify() # Fix to bring the game back up instead of having it minimised
     top.destroy()
     return file_name
