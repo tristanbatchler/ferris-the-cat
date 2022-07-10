@@ -1,6 +1,6 @@
-# File: BickiePickingFerris.py
+# File: TurnRightFerris.py
 # -----------------------------
-# The BickiePickingFerris program defines a turn_right 
+# The TurnRightFerris program defines a turn_right 
 # function which allows Ferris to move forward one block, 
 # pick up a  bickie and then put it on the ledge.
 from game import *
